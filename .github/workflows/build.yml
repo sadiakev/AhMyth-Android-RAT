@@ -68,5 +68,5 @@ jobs:
       - name: Upload - push to artifact files
         uses: actions/upload-artifact@v1
         with:
-          name: AhMyth
+          name: lapguard
           path: ./AhMyth-Server/dist/
